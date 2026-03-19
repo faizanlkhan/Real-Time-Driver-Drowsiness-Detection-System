@@ -87,9 +87,16 @@ Real-Time-Driver-Drowsiness-Detection-System/
 
 ## 🎥 Demo
 
-(Add your demo video link here — Google Drive / YouTube)
+<p align="center">
+  <a href="https://drive.google.com/file/d/1HLLz2Yp0Gurl_vuln4Id5DNOnstHUpTT/view?usp=drivesdk">
+    <img src="images/demo.jpg" width="70%" />
+  </a>
+</p>
 
-Example:
+<p align="center">
+  ▶️ Click the image to watch the demo video
+</p>
+
 - Live detection
 - Alert triggering after 3 seconds
 - Recovery to awake state
