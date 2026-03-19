@@ -1,0 +1,10 @@
+yolov5/
+labelImg/
+runs/
+.ipynb_checkpoints/
+
+*.pt
+*.jpg
+*.png
+
+data/
