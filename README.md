@@ -61,14 +61,27 @@ Real-Time-Driver-Drowsiness-Detection-System/
 
 ## 📈 Results
 
-### Training Metrics
-results.png
+### 🔹 Training Results
+<p align="center">
+  <img src="images/results.png" width="80%" />
+</p>
 
-### Confusion Matrix
-confusion_matrix.png
+### 🔹 Confusion Matrix
+<p align="center">
+  <img src="images/confusion_matrix.png" width="80%" />
+</p>
 
-### Precision / Recall / mAP Graphs
-PR_curve, P_curve, R_curve
+### 📊 Evaluation Curves
+
+<p align="center">
+  <img src="images/PR_curve.png" width="45%" />
+  <img src="images/F1_curve.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="images/P_curve.png" width="45%" />
+  <img src="images/R_curve.png" width="45%" />
+</p>
 
 ---
 
